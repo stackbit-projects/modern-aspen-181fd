@@ -8,7 +8,7 @@ sections:
     background_image: images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg
     background_image_opacity: 0
     content: |
-      Get into your dream school!
+      ### Get into your dream school!
 
       Preparing you for the 11+ exams
     actions:
