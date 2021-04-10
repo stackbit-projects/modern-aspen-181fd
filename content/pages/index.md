@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/iphone-1852901_1920.jpg
+    background_image: images/georgie-cobbs-aeC221DL8Ew-unsplash.jpg
     background_image_opacity: 0
     content: >-
       # Real, beautiful plants right to your door
