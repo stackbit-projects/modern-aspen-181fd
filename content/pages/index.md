@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/oli-dale-xjSkI_seiZY-unsplash (1).jpg
-    background_image_opacity: 40
+    background_image_opacity: 50
     content: |
       # Get into your dream school!
 
