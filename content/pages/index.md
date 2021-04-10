@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg
+    background_image: images/jess-bailey-q10VITrVYUM-unsplash.jpg
     background_image_opacity: 0
     content: |
       # Get into your dream school!
