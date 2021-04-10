@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg
     background_image_opacity: 0
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Get into your dream school!
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Preparing you for the 11+ exams
     actions:
       - title: See all items
         url: /store
